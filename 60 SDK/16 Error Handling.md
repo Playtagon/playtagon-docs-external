@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Error Handling
-
 The SDK provides a typed error system. The client receives errors through the `onError` callback rather than via promise rejection, allowing all errors to be handled in one place.
 
 ## TransportError

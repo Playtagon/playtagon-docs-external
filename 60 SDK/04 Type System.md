@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Type System
-
 All key SDK interfaces are parameterized through a generic `T`. This provides end-to-end type safety - from the model to the client, from scenarios to analytics.
 
 ## Type Hierarchy

@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# RNG
-
 The model receives a random number generator as an argument of `play()`. This is the only allowed source of randomness.
 
 ## IRng

@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Architecture
-
 ## Repository Structure
 
 ```

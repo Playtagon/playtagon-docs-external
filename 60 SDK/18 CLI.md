@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# CLI
-
 `@playtagon/cli` is a utility for validating a game and packaging it into a `.playtagon` archive for subsequent upload to an RGS.
 
 ## Running

@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Playtagon SDK
-
 Playtagon SDK is the developer-facing integration path for teams that build game logic in code and connect it to Playtagon. It includes the server-side game model contract, the client transport contract, local debug tools, scenarios, simulation, analytics, replays and CLI packaging into a `.playtagon` archive.
 
 In the Playtagon app workflow, developers build locally, package the game with the CLI, upload the archive in [[Resources]], test it in [[Launch Game]] and submit the selected version through [[Publishing]].

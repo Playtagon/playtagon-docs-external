@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Contexts
-
 Contexts are a mechanism for persisting state between model calls. There are two kinds: roundContext (within a round) and globalContext (between rounds).
 
 ## roundContext

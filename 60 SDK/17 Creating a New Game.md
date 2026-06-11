@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Creating a New Game
-
 A step-by-step guide to creating a game based on empty-game. Each step covers the bare minimum needed to get everything working.
 
 ## 1. Copy empty-game
