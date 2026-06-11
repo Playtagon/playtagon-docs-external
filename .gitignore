@@ -1,0 +1,8 @@
+.DS_Store
+.obsidian/
+Play-Git-Docs-Internal
+00-Notes/
+00 Notes/
+node_modules/
+.env
+.env.*
