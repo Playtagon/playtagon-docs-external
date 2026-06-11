@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Game Model
-
 The model is the core of the game. It implements the `IModel<T>` interface and contains all game logic: what happens during initialization and on each player action.
 
 ## IModel

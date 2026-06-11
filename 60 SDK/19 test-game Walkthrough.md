@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# test-game Walkthrough
-
 test-game is a full-featured example demonstrating all SDK capabilities: sub-rounds, contexts, scenarios, bots, a custom tracker, replays, and error handling.
 
 ## Game Rules

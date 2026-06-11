@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# SDK Overview
-
 Playtagon SDK is a framework for developing gambling games with a server-side model, client transport, and a full set of tools for debugging, testing, and analytics.
 
 ## Three Components

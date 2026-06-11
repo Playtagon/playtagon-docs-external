@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Debug Tool
-
 Debug Tool is a web page at `http://localhost:3000` that combines a control toolbar and an iframe with the game client.
 
 ## Structure

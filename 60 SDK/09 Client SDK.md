@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Client SDK
-
 front-sdk is a browser library that provides a transport abstraction between the game client and the server.
 
 ## ITransport

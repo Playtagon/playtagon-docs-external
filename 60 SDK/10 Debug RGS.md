@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Debug RGS
-
 Debug RGS is a local server for game development and testing. It replaces the production RGS by providing an API, balance management, [[12 Test Scenarios|test scenarios]], [[15 Replays|replays]], and [[11 Debug Tool|Debug Tool]].
 
 ## createDebugRgs()

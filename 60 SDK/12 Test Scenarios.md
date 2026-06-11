@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Test Scenarios
-
 Scenarios allow you to find specific game situations via brute-force in debug mode: for example, force a win, trigger a bonus, or get a particular combination.
 
 The name `hold` is reserved by the SDK. If `scenarios/index.ts` contains a validator with that name, Debug RGS fails at startup.

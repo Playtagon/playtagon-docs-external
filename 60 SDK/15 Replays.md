@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Replays
-
 Replays allow viewing the history of played rounds - each sub-round with its data. The model returns `replayData` at each step, Debug RGS accumulates and stores it, and the developer decides how to display them.
 
 ## replayData in the model

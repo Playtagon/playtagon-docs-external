@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Quick Start
-
 ## Requirements
 
 - Node.js 20+

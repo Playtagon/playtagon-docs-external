@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Game Contract
-
 A game consists of two npm packages: `games/<my-game>/server/` (server-side model + scenarios + simulations) and `games/<my-game>/client/` (HTML/UI). The SDK contract concerns the server side - inside `server/` it expects three subdirectories, each with its own `index.ts` and **default export**. All paths below are relative to `server/`; CWD at `npm run dev -w @playtagon/my-game-server` is `server/`.
 
 ## Three directories

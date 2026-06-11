@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Simulation
-
 Simulation is an automatic run of millions of rounds to compute [[14 Analytics|metrics]] (RTP, volatility, etc.). It uses Worker Threads for maximum throughput.
 
 ## Two launch forms

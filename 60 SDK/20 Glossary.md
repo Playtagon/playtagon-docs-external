@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Glossary
-
 ## SDK Terms
 
 ### denomination

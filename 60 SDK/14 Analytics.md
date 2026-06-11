@@ -7,8 +7,6 @@ tags:
 category: "sdk"
 featured: false
 ---
-# Analytics
-
 Trackers collect statistics from [[13 Simulation|simulation]] results. BuiltinTracker is added automatically and calculates core metrics. Custom trackers allow collecting game-specific statistics.
 
 ## IAnalyticsTracker
